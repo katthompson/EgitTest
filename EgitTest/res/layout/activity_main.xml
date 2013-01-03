@@ -31,4 +31,11 @@
  	    android:id="@+id/myContactBookButton"
  	    android:text="Contact Book"
  	    />
+ 	<Button 
+ 	    android:layout_width="fill_parent"
+ 	    android:layout_height="wrap_content"
+ 	    android:id="@+id/myNotificationButton"
+ 	    android:text="Notify Me"
+ 	    />
+ 	
 </LinearLayout>
